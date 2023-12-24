@@ -1,0 +1,1 @@
+Trabajo final del curso de Algoritmos del ciclo 2022-2 de UPC, principalmente orientado a la programación orientada a objetos, el trabajo se centra en la creación de un videojuego simple con el framework .NET y el lenguaje de programación C++.
