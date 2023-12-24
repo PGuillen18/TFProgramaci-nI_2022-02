@@ -1,0 +1,105 @@
+﻿  MenúPrincipal.cpp
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\Figura.h(63,43): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\Figura.h(63,31): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\Figura.h(67,50): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\Figura.h(67,40): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\Figura.h(71,43): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\Figura.h(71,31): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\Figura.h(77,43): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\Figura.h(77,31): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\AliadosRojos.h(37,66): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\AliadosRojos.h(37,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\AliadosAzules.h(37,66): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\AliadosAzules.h(37,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\Personaje.h(47,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\Personaje.h(58,65): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\Personaje.h(58,53): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\Mosquitos.h(43,66): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\Mosquitos.h(43,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\PacienteCurado.h(33,65): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\PacienteCurado.h(33,52): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\GotaAcida.h(38,66): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\GotaAcida.h(38,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\AliadoSecreto.h(32,65): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\AliadoSecreto.h(32,53): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\Juego.h(36,54): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\Juego.h(37,52): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\GanarSprite.h(29,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\GanarSprite.h(40,118): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\GanarSprite.h(40,76): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\GanastePantalla.h(33,3): warning C4102: 'StartPosition': etiqueta sin referencia
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\PerdistePantalla.h(28,3): warning C4102: 'StartPosition': etiqueta sin referencia
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\FormularioJuego.h(29,3): warning C4102: 'StartPosition': etiqueta sin referencia
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\FormularioJuegoDificil.h(34,3): warning C4102: 'StartPosition': etiqueta sin referencia
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\InstruccionesCreditos.h(20,3): warning C4102: 'StartPosition': etiqueta sin referencia
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\MenúPrincipal.h(25,3): warning C4102: 'StartPosition': etiqueta sin referencia
+  (compilando archivo de origen "MenúPrincipal.cpp")
+  
+  MenúPrincipal.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TF-Algoritmos.vcxproj -> D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\x64\Debug\TF-Algoritmos.exe

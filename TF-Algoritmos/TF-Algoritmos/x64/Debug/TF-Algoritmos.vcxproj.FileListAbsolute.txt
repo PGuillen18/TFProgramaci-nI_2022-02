@@ -1,0 +1,39 @@
+C:\Users\Userxfc\Desktop\Algoritmos\Semana 14 - Ejercicios\TF-Algoritmos\TF-Algoritmos\x64\Debug\TF-Algoritmos.vcxproj.AssemblyReference.cache
+C:\Users\Userxfc\Desktop\Algoritmos\Semana 14 - Ejercicios\TF-Algoritmos\TF-Algoritmos\x64\Debug\TF-Algoritmos.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Userxfc\Desktop\Algoritmos\Semana 14 - Ejercicios\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.FormularioJuego.resources
+C:\Users\Userxfc\Desktop\Algoritmos\Semana 14 - Ejercicios\TF-Algoritmos\TF-Algoritmos\x64\Debug\TF-Algoritmos.vcxproj.GenerateResource.cache
+C:\Users\Userxfc\Desktop\Algoritmos\TF-Algoritmos\TF-Algoritmos\x64\Debug\TF-Algoritmos.vcxproj.AssemblyReference.cache
+C:\Users\Userxfc\Desktop\Algoritmos\TF-Algoritmos\TF-Algoritmos\x64\Debug\TF-Algoritmos.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Userxfc\Desktop\Algoritmos\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.FormularioJuego.resources
+C:\Users\Userxfc\Desktop\Algoritmos\TF-Algoritmos\TF-Algoritmos\x64\Debug\TF-Algoritmos.vcxproj.GenerateResource.cache
+C:\Users\Userxfc\Desktop\Algoritmos\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.MenúPrincipal.resources
+C:\Users\Userxfc\Desktop\Algoritmos\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.FormularioJuegoDificil.resources
+C:\Users\Userxfc\Desktop\Algoritmos\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.GanastePantalla.resources
+C:\Users\Userxfc\Desktop\Algoritmos\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.PerdistePantalla.resources
+C:\Users\Userxfc\Desktop\Algoritmos\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.InstruccionesCreditos.resources
+C:\Users\Userxfc\Desktop\TF-Algoritmos\TF-Algoritmos\x64\Debug\TF-Algoritmos.vcxproj.AssemblyReference.cache
+C:\Users\Userxfc\Desktop\TF-Algoritmos\TF-Algoritmos\x64\Debug\TF-Algoritmos.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Userxfc\Desktop\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.FormularioJuego.resources
+C:\Users\Userxfc\Desktop\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.FormularioJuegoDificil.resources
+C:\Users\Userxfc\Desktop\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.GanastePantalla.resources
+C:\Users\Userxfc\Desktop\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.InstruccionesCreditos.resources
+C:\Users\Userxfc\Desktop\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.MenúPrincipal.resources
+C:\Users\Userxfc\Desktop\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.PerdistePantalla.resources
+C:\Users\Userxfc\Desktop\TF-Algoritmos\TF-Algoritmos\x64\Debug\TF-Algoritmos.vcxproj.GenerateResource.cache
+C:\Users\Userxfc\Desktop\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\x64\Debug\TF-Algoritmos.vcxproj.AssemblyReference.cache
+C:\Users\Userxfc\Desktop\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\x64\Debug\TF-Algoritmos.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Userxfc\Desktop\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.FormularioJuego.resources
+C:\Users\Userxfc\Desktop\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.FormularioJuegoDificil.resources
+C:\Users\Userxfc\Desktop\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.GanastePantalla.resources
+C:\Users\Userxfc\Desktop\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.InstruccionesCreditos.resources
+C:\Users\Userxfc\Desktop\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.MenúPrincipal.resources
+C:\Users\Userxfc\Desktop\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.PerdistePantalla.resources
+C:\Users\Userxfc\Desktop\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\x64\Debug\TF-Algoritmos.vcxproj.GenerateResource.cache
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\x64\Debug\TF-Algoritmos.vcxproj.AssemblyReference.cache
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.FormularioJuego.resources
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.FormularioJuegoDificil.resources
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.GanastePantalla.resources
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.InstruccionesCreditos.resources
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.MenúPrincipal.resources
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\x64\Debug\TFAlgoritmos.PerdistePantalla.resources
+D:\Ciclo 2022 UPC\Hito3-TF-Grupo1\TF-Algoritmos\TF-Algoritmos\x64\Debug\TF-Algoritmos.vcxproj.GenerateResource.cache
